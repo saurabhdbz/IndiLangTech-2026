@@ -1,0 +1,1502 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/2.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/14.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/15.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/21.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/22.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/28.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/35.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/41.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/53.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/59.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/63.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/65.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/72.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/81.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/88.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/92.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/100.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/103.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/106.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/107.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/122.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/129.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/131.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/135.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/139.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/157.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/161.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/162.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/167.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/188.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/190.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/192.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/201.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/202.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/206.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/215.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/217.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/231.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/242.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/244.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/252.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/253.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/261.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/268.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/270.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/271.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/274.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/277.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/289.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/296.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/309.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/314.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/316.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/328.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/331.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/338.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/340.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/344.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/346.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/367.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/373.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/379.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/380.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/386.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/388.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/390.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/392.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/402.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/414.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/419.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/428.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/436.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/455.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/456.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/459.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/460.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/462.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/467.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/472.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/475.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/476.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/477.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/485.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/490.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/492.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/493.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/499.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/505.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/506.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/509.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/511.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/521.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/525.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/559.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/561.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/563.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/584.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/586.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/595.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>\nGiven the political meme, extract the text and the context. Identify the target entity in this meme if it is trolling or supporting a party or a person or intersection of both.\n\nRespond with only one label: \"party\" or \"person\" or \"Intersection\"."
+      },
+      {
+        "role": "assistant",
+        "content": "test"
+      }
+    ],
+    "images": [
+      "/home/gpuuser3/saurabh1003/phd/workshop/DravidianLangTech-2026/Multi_Level_Political_Meme_Classification/Malayalam/Test/Test_images/598.jpg"
+    ]
+  }
+]
