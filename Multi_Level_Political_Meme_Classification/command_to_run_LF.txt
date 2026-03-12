@@ -1,0 +1,222 @@
+#Training the model for Tamil Stage-1
+llamafactory-cli train \
+    --stage sft \
+    --do_train True \
+    --model_name_or_path google/gemma-3-4b-it \
+    --preprocessing_num_workers 16 \
+    --finetuning_type lora \
+    --template gemma3 \
+    --flash_attn auto \
+    --dataset_dir data \
+    --dataset tamil_train_level_1 \
+    --cutoff_len 2048 \
+    --learning_rate 5e-05 \
+    --num_train_epochs 3.0 \
+    --max_samples 10000 \
+    --per_device_train_batch_size 2 \
+    --gradient_accumulation_steps 8 \
+    --lr_scheduler_type cosine \
+    --max_grad_norm 1.0 \
+    --logging_steps 10 \
+    --save_steps 50 \
+    --warmup_steps 0 \
+    --packing False \
+    --enable_thinking True \
+    --report_to none \
+    --output_dir saves/Gemma-3-4B-Instruct/lora/tamil_train_level_1_gemma \
+    --bf16 True \
+    --plot_loss True \
+    --trust_remote_code True \
+    --ddp_timeout 180000000 \
+    --include_num_input_tokens_seen True \
+    --optim adamw_torch \
+    --lora_rank 8 \
+    --lora_alpha 16 \
+    --lora_dropout 0 \
+    --lora_target all \
+    --freeze_vision_tower True \
+    --freeze_multi_modal_projector True \
+    --image_max_pixels 589824 \
+    --image_min_pixels 1024 \
+    --video_max_pixels 65536 \
+    --video_min_pixels 256 
+
+#Getting the inference for Stage-1:
+llamafactory-cli train \
+    --stage sft \
+    --model_name_or_path google/gemma-3-4b-it \
+    --preprocessing_num_workers 16 \
+    --finetuning_type lora \
+    --quantization_method bnb \
+    --template gemma3 \
+    --flash_attn auto \
+    --dataset_dir data \
+    --eval_dataset tamil_test_lavel_1 \
+    --cutoff_len 2048 \
+    --max_samples 100000 \
+    --per_device_eval_batch_size 2 \
+    --predict_with_generate True \
+    --report_to none \
+    --max_new_tokens 512 \
+    --top_p 0.7 \
+    --temperature 0.95 \
+    --output_dir saves/Gemma-3-4B-Instruct/lora/pred_tamil_train_level_1_gemma \
+    --trust_remote_code True \
+    --ddp_timeout 180000000 \
+    --do_predict True \
+    --adapter_name_or_path saves/Gemma-3-4B-Instruct/lora/tamil_train_level_1_gemma
+
+#Training the model for Tamil Stage-2
+llamafactory-cli train \
+    --stage sft \
+    --do_train True \
+    --model_name_or_path google/gemma-3-4b-it \
+    --preprocessing_num_workers 16 \
+    --finetuning_type lora \
+    --template gemma3 \
+    --flash_attn auto \
+    --dataset_dir data \
+    --dataset tamil_train_level_1 \
+    --cutoff_len 2048 \
+    --learning_rate 5e-05 \
+    --num_train_epochs 3.0 \
+    --max_samples 10000 \
+    --per_device_train_batch_size 2 \
+    --gradient_accumulation_steps 8 \
+    --lr_scheduler_type cosine \
+    --max_grad_norm 1.0 \
+    --logging_steps 10 \
+    --save_steps 50 \
+    --warmup_steps 0 \
+    --packing False \
+    --enable_thinking True \
+    --report_to none \
+    --output_dir saves/Gemma-3-4B-Instruct/lora/tamil_train_level_2_gemma \
+    --bf16 True \
+    --plot_loss True \
+    --trust_remote_code True \
+    --ddp_timeout 180000000 \
+    --include_num_input_tokens_seen True \
+    --optim adamw_torch \
+    --lora_rank 8 \
+    --lora_alpha 16 \
+    --lora_dropout 0 \
+    --lora_target all \
+    --freeze_vision_tower True \
+    --freeze_multi_modal_projector True \
+    --image_max_pixels 589824 \
+    --image_min_pixels 1024 \
+    --video_max_pixels 65536 \
+    --video_min_pixels 256 
+
+#Getting the inference for Stage-2:
+llamafactory-cli train \
+    --stage sft \
+    --model_name_or_path google/gemma-3-4b-it \
+    --preprocessing_num_workers 16 \
+    --finetuning_type lora \
+    --quantization_method bnb \
+    --template gemma3 \
+    --flash_attn auto \
+    --dataset_dir data \
+    --eval_dataset tamil_test_lavel_2 \
+    --cutoff_len 2048 \
+    --max_samples 100000 \
+    --per_device_eval_batch_size 2 \
+    --predict_with_generate True \
+    --report_to none \
+    --max_new_tokens 512 \
+    --top_p 0.7 \
+    --temperature 0.95 \
+    --output_dir saves/Gemma-3-4B-Instruct/lora/pred_tamil_train_level_2_gemma \
+    --trust_remote_code True \
+    --ddp_timeout 180000000 \
+    --do_predict True \
+    --adapter_name_or_path saves/Gemma-3-4B-Instruct/lora/tamil_train_level_2_gemma
+
+
+#Training the model for Malayalam Stage-1
+  llamafactory-cli train \
+    --stage sft \
+    --do_train True \
+    --model_name_or_path google/gemma-3-4b-it \
+    --preprocessing_num_workers 16 \
+    --finetuning_type lora \
+    --template gemma3 \
+    --flash_attn auto \
+    --dataset_dir data \
+    --dataset malyalam_train_lavel_1 \
+    --cutoff_len 2048 \
+    --learning_rate 5e-05 \
+    --num_train_epochs 3.0 \
+    --max_samples 10000 \
+    --per_device_train_batch_size 2 \
+    --gradient_accumulation_steps 8 \
+    --lr_scheduler_type cosine \
+    --max_grad_norm 1.0 \
+    --logging_steps 10 \
+    --save_steps 50 \
+    --warmup_steps 0 \
+    --packing False \
+    --enable_thinking True \
+    --report_to none \
+    --output_dir saves/Gemma-3-4B-Instruct/lora/malyalam_train_level_1_gemma \
+    --bf16 True \
+    --plot_loss True \
+    --trust_remote_code True \
+    --ddp_timeout 180000000 \
+    --include_num_input_tokens_seen True \
+    --optim adamw_torch \
+    --lora_rank 8 \
+    --lora_alpha 16 \
+    --lora_dropout 0 \
+    --lora_target all \
+    --freeze_vision_tower True \
+    --freeze_multi_modal_projector True \
+    --image_max_pixels 589824 \
+    --image_min_pixels 1024 \
+    --video_max_pixels 65536 \
+    --video_min_pixels 256
+
+  #Training the model for Malayalam Stage-2
+  llamafactory-cli train \
+    --stage sft \
+    --do_train True \
+    --model_name_or_path google/gemma-3-4b-it \
+    --preprocessing_num_workers 16 \
+    --finetuning_type lora \
+    --template gemma3 \
+    --flash_attn auto \
+    --dataset_dir data \
+    --dataset malyalam_train_lavel_2 \
+    --cutoff_len 2048 \
+    --learning_rate 5e-05 \
+    --num_train_epochs 3.0 \
+    --max_samples 10000 \
+    --per_device_train_batch_size 2 \
+    --gradient_accumulation_steps 8 \
+    --lr_scheduler_type cosine \
+    --max_grad_norm 1.0 \
+    --logging_steps 10 \
+    --save_steps 50 \
+    --warmup_steps 0 \
+    --packing False \
+    --enable_thinking True \
+    --report_to none \
+    --output_dir saves/Gemma-3-4B-Instruct/lora/malyalam_train_level_2_gemma \
+    --bf16 True \
+    --plot_loss True \
+    --trust_remote_code True \
+    --ddp_timeout 180000000 \
+    --include_num_input_tokens_seen True \
+    --optim adamw_torch \
+    --lora_rank 8 \
+    --lora_alpha 16 \
+    --lora_dropout 0 \
+    --lora_target all \
+    --freeze_vision_tower True \
+    --freeze_multi_modal_projector True \
+    --image_max_pixels 589824 \
+    --image_min_pixels 1024 \
+    --video_max_pixels 65536 \
+    --video_min_pixels 256
