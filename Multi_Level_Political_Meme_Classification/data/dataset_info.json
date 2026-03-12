@@ -1,0 +1,255 @@
+{
+  "identity": {
+    "file_name": "identity.json"
+  },
+  "alpaca_en_demo": {
+    "file_name": "alpaca_en_demo.json"
+  },
+  "Mix_News_Fake_Data": {
+    "file_name": "mis_info_data_folder/Mix_Fake_Train.json"
+  },
+  "malyalam_train_lavel_1": {
+    "file_name": "malyalam_train_lavel_1.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "malyalam_train_lavel_2": {
+    "file_name": "malyalam_train_lavel_2.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+  "malyalam_train_lavel_combined": {
+    "file_name": "malyalam_train_lavel_combined.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+"malyalam_train_lavel_multi": {
+    "file_name": "malyalam_train_lavel_multi.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+"malyalam_test_lavel_1": {
+    "file_name": "malyalam_test_lavel_1.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+"malyalam_test_lavel_2": {
+    "file_name": "malyalam_test_lavel_2.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+"malyalam_test_lavel_combined": {
+    "file_name": "malyalam_test_lavel_combined.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+"malyalam_test_lavel_multi": {
+    "file_name": "malyalam_test_lavel_multi.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+"tamil_train_lavel_1": {
+    "file_name": "tamil_train_lavel_1.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+"tamil_train_lavel_multi": {
+    "file_name": "tamil_train_level_multi.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+"tamil_test_lavel_multi": {
+    "file_name": "tamil_test_level_multi.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+    "tamil_train_level_2": {
+    "file_name": "tamil_train_level_2.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+"tamil_train_level_combined": {
+    "file_name": "tamil_train_level_combined.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+"tamil_test_lavel_1": {
+    "file_name": "tamil_test_lavel_1.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+"tamil_test_level_2": {
+    "file_name": "tamil_test_level_2.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+"tamil_test_level_combined": {
+    "file_name": "tamil_test_level_combined.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+  "the_stack": {
+    "hf_hub_url": "bigcode/the-stack",
+    "ms_hub_url": "AI-ModelScope/the-stack",
+    "columns": {
+      "prompt": "content"
+    }
+  },
+  "starcoder_python": {
+    "hf_hub_url": "bigcode/starcoderdata",
+    "ms_hub_url": "AI-ModelScope/starcoderdata",
+    "columns": {
+      "prompt": "content"
+    },
+    "folder": "python"
+  }
+}
